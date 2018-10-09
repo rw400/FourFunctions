@@ -6,3 +6,7 @@ function(x,y){
 	let z = x * y;
 	return z;
 }
+function(x,y){
+	let z = x / y;
+	return z;
+}
